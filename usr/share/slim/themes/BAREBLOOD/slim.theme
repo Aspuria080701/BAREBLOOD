@@ -1,0 +1,12 @@
+background_style        center
+
+input_panel_x           60%
+input_panel_y           55%
+input_name_x            10
+input_name_y            65
+input_pass_x            10
+input_pass_y            160
+
+input_font              Metamorphous:size=20
+input_color		#000000
+input_bgcolor           #ffffff
