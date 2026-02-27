@@ -1,0 +1,5 @@
+media-flash-cf
+media-flash-ms
+media-flash-sd
+media-flash-sm
+media-flash
