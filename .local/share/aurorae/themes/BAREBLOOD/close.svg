@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" version="1.1" id="svg3" xml:space="preserve"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg">
+    <defs id="defs">
+        <pattern patternUnits="userSpaceOnUse" width="20px" height="20px" id="active-pattern">
+            <image width="20px" height="20px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAARnQU1BAACx&#10;jwv8YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAlwSFlz&#10;AAALEwAACxMBAJqcGAAAAAd0SU1FB+oCFAEuHbdzDi4AAAQRSURBVDjLlZTLa1xlGMZ/3zlnzvnO&#10;OTPp3JKZZMZMtGk7yaQXW4viRhEE/4IiKIIWXQgKIgUXSnfSipcWi6gNKoq46ULXrrysumprU6NN&#10;tG0Sm8mYuWSSnJlz+1wEakO14rN63w+e531feL5HcBccrlRVAo2+BYXIpjugUWgIzi2eF//GMf7p&#10;8Un2qwvVPs6aRiMNtm1TzlZwBzOslts8kdfVRnuNH67N3CGs3d6UskPqMcbU3K4QKxJomk5al4wN&#10;l7n/4AHe/XKaPfv3UcuXGIwdHqnsVQ/eO6lu17g1oZwvqEAHPYZqIg+6IJEwkbkUleo4pz+fvkU6&#10;9vTzLM3Ms97pklmMOb9zk9nZWbFtQyvcKnc7Q9QzoDI2ueoog/vGCaTB6RPvAPDRyVOYts09U+PI&#10;qRI3agYPzMvtJw/l8qprRiQDjWU7IGEYpEeHmTx0gLPT0xyemKJgJ7cGJx1KEzs5+cXHPDp5kJGR&#10;Eeb3CB4v7lW3Th7NFlShbVFIpVlPRriuQ21vjZPnPuW/8NJTz7L2/Sydtsc36xeFJqVUhtBZGPKJ&#10;4ghfi1myfWbWbnLqteMAfPD2e3xy5kMAvn5/mrNvnQLgzdeP0+i0WBV9bg6HVKtVZcRxjB4qnFiQ&#10;7Zp08j7ZjsJTTb69cJ5fn3mOMI4olcsAXFleoD5/nRNHXqC52uT3tT+QwsddB1czMHz7Ya56cxTT&#10;AZf1FXZEGYz1mIb0cG8s8+fVDk42SW8wD0Ds+Vyp3+BSZ4N+4DPQiujpYMcabTNEw58Dcwgn1AgS&#10;MWYkWChEDDc13HrIz06Xloww9K0/IAyN/R0Lc6VHv++zmAroJRRtN8L1NTSdDWR4hUDE9CzF5ahB&#10;eVWn6UYU10yGdIdKYYThQhGAYqFAd1eOirED1xeUOgZOX+B6gg2p0BLKo2eMsdATdM2IZKhjxBo7&#10;PI3r44pCaYTdtQlePPYKAEdffZnaxCQbtRx5X5Ja1Wg5EdLTaBrBlm0sy1IA6XSa0XqCei4kk82Q&#10;dpNMVSc589Vnd9jljSNHufjTDOHKJp2BiKsbDRqNhhAAUkrVFy7EIQnl8ZBfpJUIkdUhctkcu8fH&#10;yWTSCENHhRH9zgaXF3/DvtSgG/Xxl7ssJj1+XV8Wf6eFvE8hFGa0hBCCgYEBak2XZtHATDuMySyh&#10;Di0rRvd8tI5Pv9/nF28FK9ZYWK2LbeFgWZbqG2VktLRlDwUVK8OaHTPcSdBKReySecxAQ8UK0Vhn&#10;JudhejHX/CZBEGwXBDBNU/nWHuxwDiEEm7GNGXfxtTJj7iZCwWZCUaobOOj8KAOMuE3oe+KO+Lod&#10;CSerAnkYufkdSil8bJSRQvOWMAwDXdcJlUHQ6wr+D6SUSkqpSNWUaZrKNE1F8pC6G+cvf7eineol&#10;yyAAAAAASUVORK5CYII=&#10;" id="image1" x="0" y="0" />
+        </pattern>
+        <pattern patternUnits="userSpaceOnUse" width="20px" height="20px" id="pressed-pattern">
+            <image width="20px" height="20px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IB2cksfwAAAARnQU1BAACx&#10;jwv8YQUAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAlwSFlz&#10;AAALEwAACxMBAJqcGAAAAAd0SU1FB+oCFAEuJ3F/15wAAAPgSURBVDjLjZTLixxVFIe/W6+uqq7q&#10;7urq7sl0OuMkTt4+FnHhxpUP8IHiSkFXQRTFEEzM/BuuVBBETFZCdoKoiA8kS8FNIjEjRjNmema6&#10;O/Sjuqq6uuq4iCZqYsgPLpdz4H7nB+ecq7iDloMjousGRraAlDdwjBpT+YNLVy6o/3tj3C75QOcJ&#10;mU5zptEGreAQY/UbrZZHWA+YRh6lYkWStM9a79wtYO2fQdmui8kOGQ4yHFdRCoVxsc7Oezrcd/+D&#10;fPrVJ+w7uEizo9DMnIcPPilLlYfktkCLpkTJACgwy3MG08vYhovtz2k0Qj44/Q4oeP+jd6nULGw7&#10;IJ7kaOKzWD4ktwAVJTRl0qxXKFREUGnSbrc5sPcAc32T42+eAODk8RMYps3isovf9PAbc9zgPw5L&#10;elUcwwfRsYYHKESjErosr3Q4+9kZDu87QsXzAXAdh6VdTT7/+iwre3fRaDWxijotdViuGwMMwxDP&#10;8/DZTbVcJynG7Nm/jy++OXP7VgqQwTSLeO6pl/j9yiUYN/m5953SAhCbBZKxgWQwjWbYjsZgdJlX&#10;jh4D4NSJVU69dRJmOavHVzn5xttgwbFXV0lGLswdRr2IlcqjYlwDjGJA1Q+JhxM0u8lsklPMNc5f&#10;+IHnn36ZYmbh1Wdgagy3Ha5u/sKzj79Ikk7Y7g1QqYe/MAdJMCBEij7DYQwM6bSWECkxHc/pjiAN&#10;t9FLcG+lDSji2Sbdbo9ZkjDerqFqA2y1xHgzoxG20aBPAfhll3rLIZ8X9DeGFGbErBgiqYmp65i6&#10;QAJlx2GWRmSJ4HlTirhElG0RLM+J9StooIFSpHFKvOVz8ep59JJOvDVnPkmJzXVqYZVGsw4OuFWD&#10;pT07wEhJIgtLqviVMrOpjqX5KAskUwpB8NUucCaE9h7MokE5mOPUhYOH9vPhx+/daPJrR19n7acu&#10;G5dj0nyAa1ZI0gRlpdfHxrIsyfMclVcJ/JDReERNtfFbZXbvX+bLb09fHxXt5uo+89gL/Hpxiyia&#10;YOol1nrnAJQCCOpNkZGQlWLiKMJigZLuEtYX8BanLO7o4PsOpmGhiUEczdnsDri6voGWVtnKf2Q2&#10;rpKyrm6WVI4gMY1Gg16vh1KKqh9SdgOM0oxF6xEmxRqOWWc0XWcW1YivtegX31MyFZOsq25sCkCj&#10;0RBjPKZfFBRahptCpjXJJcfQNVRRoeW2SbI+nhcwUV0mvYyILkrLKYri1j/ScRwpg9TroQRBIJqm&#10;iW97ommamMqTVtgRQHQCaVSXBRD0knAXkr+P8ddtg7iuK4BUqohlWXcF+pd2Yt8AK4WUm03B5o6g&#10;PwGM1pooBHGRxwAAAABJRU5ErkJggg==&#10;" id="image2" x="0" y="0" />
+        </pattern>
+    </defs>
+
+    <g id="active-center" style="display:inline">
+        <rect width="20px" height="20px" id="rect1" x="0" y="0" fill="url(#active-pattern)" />
+    </g>
+    <g id="hover-center" style="display:inline">
+        <rect width="20px" height="20px" id="rect2" x="0" y="0" fill="url(#active-pattern)" />
+    </g>
+    <g id="pressed-center" style="display:inline">
+        <rect width="20px" height="20px" id="rect3" x="0" y="0" fill="url(#pressed-pattern)" />
+    </g>
+</svg>
