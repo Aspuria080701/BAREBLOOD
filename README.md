@@ -12,3 +12,6 @@ Gothic maximalist linux theme for KDE plasma 6.5
 *WARNING*
 
 All the art used to make this rice is *AI GENERATED* (except for the wallpapers)
+
+
+![](demo/icons.png)
