@@ -1,6 +1,8 @@
 # BAREBLOOD
 Gothic maximalist linux theme for KDE plasma 6.5
 
+> made this for my gf
+
 - Custom icon pack
 - Custom cursor pack
 - Custom window decorations
